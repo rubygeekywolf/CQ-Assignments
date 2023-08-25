@@ -7,3 +7,4 @@ export interface IEmployeeDetail {
     dateOfJoining : string;
     country : string;
 }
+
